@@ -10,13 +10,13 @@
       "name": "egret"
     },
     {
-      "name": "eui"
-    },
-    {
-      "name": "assetsmanager"
+      "name": "game"
     },
     {
       "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
     },
     {
       "name": "promise"
